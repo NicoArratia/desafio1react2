@@ -5,7 +5,6 @@ import Contacto from './components/Contacto'
 import NotFound from './components/NotFound'
 
 import { Route, Routes } from 'react-router-dom'
-import NotFound from './components/NotFound'
 
 function App() {
   
