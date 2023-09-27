@@ -8,9 +8,9 @@ const NavBarMenu = () => {
     <>
     <Navbar expand="lg" className="bg-body-tertiary">
           <Nav className="me-auto">
-            <Link to='/'>Home</Link>
-            <Link to='Contacto' >Contacto</Link>  
-            HappyCake
+            <Link to='/' className='pe-2'>Home</Link>
+            <Link to='Contacto' className='pe-2'>Contacto</Link>  
+            <p>HappyCake</p>
           </Nav>
     </Navbar>
     </>
