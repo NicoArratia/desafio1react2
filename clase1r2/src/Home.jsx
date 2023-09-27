@@ -7,7 +7,8 @@ function App() {
   return (
     <>
       <div>
-base
+      <h1>Home</h1>
+      <p>Bienvenido a la página de inicio.</p>
       </div>
 
     </>
