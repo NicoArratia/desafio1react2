@@ -5,7 +5,7 @@ import Button from 'react-bootstrap/Button';
 const Contacto = () => {
   return (
     <>
-    <div className="container mt-5"> {/* Agrega un contenedor Bootstrap y un margen superior */}
+    <div className="container mt-5"> {}
       <div className="row justify-content-center">
         <div className="col-md-6">
           <Form>
@@ -20,7 +20,7 @@ const Contacto = () => {
               <Form.Control as="textarea" rows={3} />
             </Form.Group>
             <br />
-            <Button variant="danger" className="d-block mx-auto">Enviar</Button> {/* Centra el botón */}
+            <Button variant="danger" className="d-block mx-auto">Enviar</Button> {}
           </Form>
         </div>
       </div>

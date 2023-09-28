@@ -22,8 +22,8 @@ const NavBarMenu = () => {
         </Link>
       </Nav>
       <div className="d-flex align-items-center">
-        <p className="mb-0 navbar-menu-paragraph"> {/* Aplica la clase navbar-menu-paragraph */}
-          <strong className="text-white">HappyCake</strong> {/* Aplica el color blanco al texto */}
+        <p className="mb-0 navbar-menu-paragraph"> {}
+          <strong className="text-white">HappyCake</strong> {}
           <span role="img" aria-label="Pastel" className="ml-2">
             🍰
           </span>
